@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-west-2"
-  access_key = "AKIATTPPUJKKPEJVGCP7"
-  secret_key = "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"
+  access_key = "AKIATTPPUJKKJYI5UH4O"
+  secret_key = "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"
 }
 
 module "ec2_apotians" {
